@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    background-color: #EEE9DA;
+    text-align: center;
+
+
+}
+
+.top {
+    height: 800px;
+    position: relative;
+    top: 100px;
+    font-family: 'Cookie', cursive;
+
+}
+
+.mainly {
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    bottom: 40px;
+}
+
+.header {
+    color: #3A98B9;
+    font-size: 300%;
+
+}
+
+.main-pic {
+    width: 120px;
+    margin-bottom: 150px;
+    position: relative;
+    bottom: 0px;
+
+}
+
+.rocket {
+    position: relative;
+    margin-top: 20px;
+    width: 100px;
+    padding-top: 100px;
+}
+
+.middle {
+
+    font-size: 20px;
+    position: relative;
+    border: 500px;
+    padding-bottom: 500px;
+    position: relative;
+    background-color: #93BFCF;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.the-skills {
+    color: #FFF1DC;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    word-spacing: 100px;
+    position: relative;
+    padding-right: 120px;
+    padding-top: 100px;
+
+
+}
+
+.bottom {
+
+    padding: 50px;
+    border: 50px;
+    position: relative;
+    padding-top: 30px;
+    height: 500px;
+    background-color: #c5c5c5;
+
+}
+
+.whatsapp {
+    position: absolute;
+    top: 10px;
+    right: 120px;
+    width: 70px;
+    
+   
+}
+
+.contact {
+    
+    color: #FFF1DC;
+    font-size: 50px;
+    font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav {
+
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 2;
+    font-weight: normal;
+    padding: 100px;
+    padding-bottom: 20px;
+    position: relative;
+    background-color: #FFF1DC;
+    display: inline-block;
+}
